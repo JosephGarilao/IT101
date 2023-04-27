@@ -7,3 +7,5 @@ Joey is my name
 **This is bold**
 
 This is an edit.
+
+Joseph Garilao
