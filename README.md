@@ -6,4 +6,4 @@ Joey is my name
 
 **This is bold**
 
-
+this is an *italic*
