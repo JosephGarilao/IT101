@@ -3,3 +3,5 @@
 ## This is a subheader
 
 Joey is my name
+
+**This is bold**
